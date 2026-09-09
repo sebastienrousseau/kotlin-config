@@ -1,0 +1,65 @@
+{
+  "feed_url": "https://sebastienrousseau.com/kotlin-config/feed.json",
+  "home_page_url": "https://sebastienrousseau.com/kotlin-config/",
+  "items": [
+    {
+      "authors": [
+        {
+          "name": "Unknown"
+        }
+      ],
+      "content_html": "How to install and set up @sebastienrousseau/kotlin-config.",
+      "date_modified": "",
+      "date_published": "",
+      "id": "https://sebastienrousseau.com/kotlin-config/installation/",
+      "tags": [],
+      "title": "Installation — @sebastienrousseau/kotlin-config",
+      "url": "https://sebastienrousseau.com/kotlin-config/installation/"
+    },
+    {
+      "authors": [
+        {
+          "name": "Unknown"
+        }
+      ],
+      "content_html": "Model Context Protocol configuration for @sebastienrousseau/kotlin-config.",
+      "date_modified": "",
+      "date_published": "",
+      "id": "https://sebastienrousseau.com/kotlin-config/mcp/",
+      "tags": [],
+      "title": "Model Context Protocol (MCP) — @sebastienrousseau/kotlin-config",
+      "url": "https://sebastienrousseau.com/kotlin-config/mcp/"
+    },
+    {
+      "authors": [
+        {
+          "name": "Unknown"
+        }
+      ],
+      "content_html": "Reference specifications and options for @sebastienrousseau/kotlin-config.",
+      "date_modified": "",
+      "date_published": "",
+      "id": "https://sebastienrousseau.com/kotlin-config/reference/",
+      "tags": [],
+      "title": "Reference — @sebastienrousseau/kotlin-config",
+      "url": "https://sebastienrousseau.com/kotlin-config/reference/"
+    },
+    {
+      "authors": [
+        {
+          "name": "Unknown"
+        }
+      ],
+      "content_html": "How to use and configure @sebastienrousseau/kotlin-config.",
+      "date_modified": "",
+      "date_published": "",
+      "id": "https://sebastienrousseau.com/kotlin-config/usage/",
+      "tags": [],
+      "title": "Usage — @sebastienrousseau/kotlin-config",
+      "url": "https://sebastienrousseau.com/kotlin-config/usage/"
+    }
+  ],
+  "language": "en-GB",
+  "title": "kotlin-config",
+  "version": "https://jsonfeed.org/version/1.1"
+}
