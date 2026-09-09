@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Untitled</title>
-    <link>https://sebastienrousseau.com/kotlin-config</link>
-    <description></description>
+    <title>@sebastienrousseau/kotlin-config — Shareable Kotlin configuration standards for ktlint and Detekt.</title>
+    <link>https://sebastienrousseau.com/kotlin-config/</link>
+    <description>Shareable Kotlin configuration providing standardized ktlint and Detekt rules adhering to modern 2026 standards.</description>
     <atom:link href="https://sebastienrousseau.com/kotlin-config/rss.xml" rel="self" type="application/rss+xml"/>
     <language>en</language>
+    <copyright>© 2026 Sebastien Rousseau. Licensed under Apache-2.0 OR MIT.</copyright>
     <item>
       <title>Installation — @sebastienrousseau/kotlin-config</title>
       <link>https://sebastienrousseau.com/kotlin-config/installation/</link>

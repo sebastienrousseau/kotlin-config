@@ -1,5 +1,14 @@
 [
   {
+    "date": "2026-09-09",
+    "description": "Shareable Kotlin configuration providing standardized ktlint and Detekt rules adhering to modern 2026 standards.",
+    "locale": "en-GB",
+    "tags": [],
+    "title": "@sebastienrousseau/kotlin-config — Shareable Kotlin configuration standards for ktlint and Detekt.",
+    "url": "https://sebastienrousseau.com/kotlin-config/index.html",
+    "wordCount": 162
+  },
+  {
     "date": "",
     "description": "How to install and set up @sebastienrousseau/kotlin-config.",
     "locale": "en-GB",
