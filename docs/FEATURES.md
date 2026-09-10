@@ -18,4 +18,5 @@ An exhaustive overview covering **100% of the features, rules, and capabilities*
 ## Feature Deep Dive
 
 ### 1. detekt.yml
+
 Exhaustive Detekt rule configurations for complexity, naming, performance, and potential bugs. Designed to guarantee deterministic behavior across all development and continuous integration environments.

@@ -5,6 +5,7 @@ Comprehensive schema, property definitions, and exported options reference for `
 ---
 
 ## Description
+
 Shareable Kotlin configuration standards providing official ktlint formatting and Detekt static analysis.
 
 ---
@@ -22,6 +23,7 @@ Shareable Kotlin configuration standards providing official ktlint formatting an
 ## Feature & Property Reference
 
 ### 1. detekt.yml
+
 - **Description**: Exhaustive Detekt rule configurations for complexity, naming, performance, and potential bugs.
 - **Scope**: Production & Development
 - **Status**: Stable & Active
