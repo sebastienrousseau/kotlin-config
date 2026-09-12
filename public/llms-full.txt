@@ -1,5 +1,0 @@
-# kotlin-config
-
-> Shareable Kotlin configuration providing standardized ktlint and Detekt rules adhering to modern 2026 standards.
-
-Language: en-GB
