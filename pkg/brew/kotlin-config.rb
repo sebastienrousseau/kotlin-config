@@ -6,7 +6,7 @@
 class KotlinConfig < Formula
   desc "Shareable Kotlin configuration providing standardized ktlint and Detekt rules adhering to modern 2026 standards"
   homepage "https://github.com/sebastienrousseau/kotlin-config"
-  url "https://registry.npmjs.org/@sebastienrousseau/kotlin-config/-/kotlin-config-0.0.7.tgz"
+  url "https://registry.npmjs.org/@sebastienrousseau/kotlin-config/-/kotlin-config-0.0.9.tgz"
   license any_of: ["Apache-2.0", "MIT"]
 
   depends_on "node"
